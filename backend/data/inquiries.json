@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayushi",
+    "phone": "9243508663",
+    "category": "New Student Admission (Class 1 to 5)",
+    "message": "admission",
+    "status": "new",
+    "ipAddress": "::1",
+    "_id": "1790435035431",
+    "createdAt": "2026-09-26T15:03:55.431Z",
+    "notificationStatus": {
+      "emailSent": false,
+      "whatsappSent": false,
+      "emailError": "SMTP credentials not configured in .env",
+      "whatsappError": "WhatsApp credentials not configured in .env"
+    }
+  }
+]
